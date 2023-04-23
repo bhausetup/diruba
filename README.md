@@ -1,34 +1,34 @@
 <h2 align="center">
-    ──「 🍷 𝗥𝗲𝗱 𝗪𝗶𝗻𝗲 🍷 」──
+    ──「 🍷 𝐃𝐢𝐥Ɽ𝐮𝐛𝐚 🍷 」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/b5e1580d619a9e0c2d439.jpg">
+  <img src="https://telegra.ph/file/72fc4ed0b02894736b3b7.jpg">
 </p>
 
 <p align="center">
-<a href="https://github.com/OpSahubot/Vc-Player/stargazers"><img src="https://img.shields.io/github/stars/OpSahubot/Vc-Player?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/OpSahubot/Vc-Player/network/members"> <img src="https://img.shields.io/github/forks/OpSahubot/Vc-Player?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/OpSahubot/Vc-Player/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/bhausetup/dilruba/stargazers"><img src="https://img.shields.io/github/stars/bhausetup/dilruba?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/bhausetup/dilruba/network/members"> <img src="https://img.shields.io/github/forks/bhausetup/dilruba?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/bhausetup/dilruba/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/OpSahubot/Vc-Player/commits/OpSahubot"> <img src="https://img.shields.io/github/last-commit/OpSahubot/Vc-Player?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/bhausetup/dilruba/commits/OpSahubot"> <img src="https://img.shields.io/github/last-commit/bhausetup/dilruba?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/b5e1580d619a9e0c2d439.jpg">
+  <img src="https://telegra.ph/file/b3a574c42856ad52b0cda.jpg">
 </p>
 
 <h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+    ─「🔞⚜️ ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ ⚜️🔞」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/OpSahubot/Vc-Player"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/bhausetup/dilruba> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
+    ─「🔞😘 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 😘🔞」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/OpSahubot/Vc-Player/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/bhausetup/dilruba/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -57,14 +57,14 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 ━━━━━━━━━━━━━━━━━━━━
 
 <h3 align="center">
-    ─「 sᴜᴩᴩᴏʀᴛ 」─
+    ─「🔞 sᴜᴩᴩᴏʀᴛ 🔞」─
 </h3>
 
 <p align="center">
-<a href="https://t.me/WorldChattingFriendsWCF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/ISHQ00_I"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/Kalakar_Sangram"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/XD_CUTETY"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
